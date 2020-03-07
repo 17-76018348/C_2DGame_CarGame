@@ -5,3 +5,4 @@
 
 ![screenshot](./screenshot.png)
 
+[발표자료 pdf](https://github.com/17-76018348/C_2DGame_CarGame/blob/master/c_2dgame.pdf)
